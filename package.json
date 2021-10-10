@@ -1,0 +1,22 @@
+{
+  "name": "gsvpanodepth",
+  "version": "1.0.0",
+  "description": "A JavaScript library that downloads and extracts depth maps from Google Street View.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psfonseka/GSVPanoDepth.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psfonseka/GSVPanoDepth.js/issues"
+  },
+  "homepage": "https://github.com/psfonseka/GSVPanoDepth.js#readme"
+}
